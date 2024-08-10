@@ -65,19 +65,19 @@ Technical Details - Excel File: - The bot works with an Excel file, the path to 
 ![Screenshot 2024-08-10 204541](https://github.com/user-attachments/assets/a4e83e90-a701-42b7-b337-ea481dc95682)
 
 
-
-
-![Screenshot 2024-08-10 204723](https://github.com/user-attachments/assets/c9785c20-0167-4d1c-8237-e96bfd848cdd)
-
-![Screenshot 2024-08-10 204650](https://github.com/user-attachments/assets/4bade42f-a599-466f-ad06-52c49465d9cb)
-
-![Screenshot 2024-08-10 204613](https://github.com/user-attachments/assets/d853c810-8f39-48cf-aef5-24be59bdc194)
-
 ![Screenshot 2024-08-10 204559](https://github.com/user-attachments/assets/10d24ed7-b587-4bad-ae8f-d40bebf60ffe)
 
 
 
 
+![Screenshot 2024-08-10 204613](https://github.com/user-attachments/assets/d853c810-8f39-48cf-aef5-24be59bdc194)
+
+
+
+
+![Screenshot 2024-08-10 204723](https://github.com/user-attachments/assets/c9785c20-0167-4d1c-8237-e96bfd848cdd)
+
+![Screenshot 2024-08-10 204650](https://github.com/user-attachments/assets/4bade42f-a599-466f-ad06-52c49465d9cb)
 
 ![Screenshot 2024-08-10 204817](https://github.com/user-attachments/assets/18b122c7-761a-46ae-ad90-fa3010022dec)
 
