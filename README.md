@@ -61,38 +61,26 @@ Technical Details - Excel File: - The bot works with an Excel file, the path to 
 - Calculate the amount:
 - Click "💰 Calculate the amount" to get the total amount of all records.
 
-![image](https://github.com/user-attachments/assets/5a5800f7-491e-4249-b718-858de2703a06)
+![Screenshot 2024-08-10 204817](https://github.com/user-attachments/assets/18b122c7-761a-46ae-ad90-fa3010022dec)
 
-![image](https://github.com/user-attachments/assets/7cce606a-fff5-46ee-bc2a-4220ba8eeec4)
+![Screenshot 2024-08-10 204800](https://github.com/user-attachments/assets/19c47492-d959-4cd7-8a65-649441ba1b25)
 
-![image](https://github.com/user-attachments/assets/4ec769ce-3fde-4785-818d-015e76d17136)
+![Screenshot 2024-08-10 204739](https://github.com/user-attachments/assets/d0d15680-de36-4b71-9a4c-59b416974118)
 
+![Screenshot 2024-08-10 204723](https://github.com/user-attachments/assets/c9785c20-0167-4d1c-8237-e96bfd848cdd)
 
+![Screenshot 2024-08-10 204650](https://github.com/user-attachments/assets/4bade42f-a599-466f-ad06-52c49465d9cb)
 
+![Screenshot 2024-08-10 204613](https://github.com/user-attachments/assets/d853c810-8f39-48cf-aef5-24be59bdc194)
 
+![Screenshot 2024-08-10 204559](https://github.com/user-attachments/assets/10d24ed7-b587-4bad-ae8f-d40bebf60ffe)
 
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/8f4e1d23-57ca-47d8-834c-06ab7d22c206)
-
-![image](https://github.com/user-attachments/assets/4ba4bcab-8fa0-4723-9785-a9a4c1995310)
-
-
-
-![image](https://github.com/user-attachments/assets/5cd93a01-bc8f-4929-970a-8de2883b9cac)
+![Screenshot 2024-08-10 204541](https://github.com/user-attachments/assets/a4e83e90-a701-42b7-b337-ea481dc95682)
 
 
 
 
 
-![image](https://github.com/user-attachments/assets/dae71994-f77f-41c2-9477-5b2d0235dc3a)
-
-![image](https://github.com/user-attachments/assets/af58e56b-3a86-4545-90fe-d3f19f083d47)
 
 Translation into Russian
 
